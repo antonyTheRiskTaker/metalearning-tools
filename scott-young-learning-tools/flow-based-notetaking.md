@@ -15,7 +15,7 @@ Steps to take:
 
 Since FBN allows you to understand lectures better by sacrificing readability
 for the purpose of reviewing, here are two hybrid strategies based on the
-original FBN:
+original FBN to increase your notes' readability:
 - Flow-based afternotes (FBA)
 - Flow-based commenting (FBC)
 
