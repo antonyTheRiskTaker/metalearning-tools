@@ -4,7 +4,8 @@
 To define your programming project, you need to ask yourself four questions:
 1. What is the project?
 2. What is the minimal viable product?
-3. What are the nice-to-haves (extra features)?
+3. What are the nice-to-haves (extra features that are not as important as the
+   essential features that make up the MVP)?
 4. When will the project complete?
 
 *Now try to answer these questions*
